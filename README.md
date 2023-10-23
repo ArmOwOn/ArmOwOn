@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there! 👋 I'm a front-end developer with expertise in TypeScript and React. I'm passionate about creating engaging and user-friendly web experiences. Currently, I'm expanding my skillset by diving into Next.js. I love the challenge of staying up-to-date with the latest technologies and finding innovative solutions to design problems. Let's build something amazing together! 🚀
+Hi there! 👋 
+I'm Armaan.
+a front-end developer with expertise in TypeScript and React. I'm passionate about creating engaging and user-friendly web experiences. Currently, I'm expanding my skillset by diving into Next.js. I love the challenge of staying up-to-date with the latest technologies and finding innovative solutions to design problems. Let's build something amazing together! 🚀
 
 
 # 💻 Tech Stack:
